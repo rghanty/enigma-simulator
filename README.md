@@ -41,6 +41,32 @@ Upon using the Configure Enigma button, you will encounter this window.![image](
 - A button for applying configuration to do the same.
 
 When you apply your selected configuration to the machine, you will be taken back to the enigma machine ui, with a slight change. You will find three vertical rectangles used to visualise the rotors you selected. Each rotor has letters going from A-Z and will rotate upon typing in a letter. The updated window is as follows with the selected rotors being "I","III","V". ![image](https://github.com/rghanty/enigma-simulator/assets/99227180/0fc19c1b-a107-4949-9bf5-6f7172a9637e)
+<br><br>
 
+# Historical Rotor Wirings
+| Rotor/Reflector # | Wiring |
+|-------------------|--------|
+| I                 | EKMFLGDQVZNTOWYHXUSPAIBRCJ       |
+| II                | AJDKSIRUXBLHWTMCQGZNPYFVOE       |
+| III               | BDFHJLCPRTXVZNYEIWGAKMUSQO       |
+| IV                | ESOVPZJAYQUIRHXLNFTGKDCMWB       |
+| V                 | VZBRGITYUPSDNHLXAWMJQOFECK       |
+| Reflector A       | EJMZALYXVBWFCRQUONTSPIKHGD       |
+| Reflector B       | YRUHQSLDPXNGOKMIEBFZCWVJAT       |
+| Reflector C       | FVPJIAOYEDRZXWGCTKUQSBNMHL       |
+
+Source: https://en.wikipedia.org/wiki/Enigma_rotor_details
+
+
+# Demo
+Here is a brief demonstration of the machine. Make sure to read the entire README file before watching this to understand the specifics of the machine!!!.
+
+
+
+https://github.com/rghanty/enigma-simulator/assets/99227180/8484124b-619f-4c0a-ac5c-c3e77413f6a1
+
+<br><br>
+If you have any questions or concerns, do let me know in Issues!! 
+<br><br>
 
 
