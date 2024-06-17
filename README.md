@@ -11,7 +11,7 @@ This project itself, is dedicated to the Polish cryptologists, **Marian Rejewski
 On a real-life enigma machine, there are **four** key components visible to a user working on the machine.<p align = "right"><img src = "https://github.com/rghanty/enigma-simulator/assets/99227180/0f890e77-b6ab-452a-a77e-bb23bbf84648"></p><p align = "center"><i>
 Source: Wikipedia: Cryptanalysis of the Enigma</i></p> 
 
-- The rotors are responsible for directing and jumbling electrical signals from the keyboard yielding a **different** output letter from the input letter. (Remember this)
+- The rotors are responsible for directing and jumbling electrical signals from the keyboard yielding a **different** output letter from the input letter. 
 - The keyboard takes in user input.
 - The lampboard has letters which light up based on the output produced by the enigma machine.
 - The plugboard is used to swap a letter for another one. If say "A" and "R" are connected on the plugboard. The signal for the letter "A" will become that for "R" before traveling to the rotors, and vice versa.
