@@ -38,7 +38,7 @@ Upon using the Configure Enigma button, you will encounter this window.![image](
 - Three drop-down menus for rotor selection with options "I","II","III","IV","V" based on historic enigma rotor wirings. All three rotors must be unique.
 - Reflector selection with options "A","B","C" based on historic reflector wirings.
 - A space for entering plugboard pairs. You can enter at most 10 pairs of unique letters.
-- A button for applying configuration to do the same.
+- A button for applying configuration.
 
 When you apply your selected configuration to the machine, you will be taken back to the enigma machine ui, with a slight change. You will find three vertical rectangles used to visualise the rotors you selected. Each rotor has letters going from A-Z and will rotate upon typing in a letter. The updated window is as follows with the selected rotors being "I","III","V". ![image](https://github.com/rghanty/enigma-simulator/assets/99227180/0fc19c1b-a107-4949-9bf5-6f7172a9637e)
 <br><br>
