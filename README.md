@@ -4,8 +4,8 @@ Having just recently re-watched The Imitation Game during my summer break, I set
 **world history** enthusiast for a long time (and by world, I mean Europe and by history, I mean WW2). The machine itself was a fantastic bit of engineering and it had the smartest mathematicians in the world scratching their heads trying to crack it.
 This project itself, is dedicated to the Polish cryptologists, **Marian Rejewski, Henryk Zygalski** and **Jerzy Rozycki** (who cracked Enigma first and worked with Bletchley Park during the war), and the great **Alan Turing** himself. For more information on its history, click [here](https://en.wikipedia.org/wiki/Enigma_machine#History).
 <br>
-<p align = "center"><img src = "https://github.com/rghanty/enigma-simulator/assets/99227180/89d4e9f5-3aa4-4af8-938b-dc892c8f0570"></p>
-<p align = "center"><i>Jimmy James describes himself. Source: NewsRadio 1995</i></p> 
+<p align = "center"><img src = "https://github.com/rghanty/enigma-simulator/assets/99227180/1f0e94ed-1bfe-4f21-91eb-1e101ae6930d" width = "700"></p>
+
 
 # Machine Design
 On a real-life enigma machine, there are **four** key components visible to a user working on the machine.<p align = "right"><img src = "https://github.com/rghanty/enigma-simulator/assets/99227180/0f890e77-b6ab-452a-a77e-bb23bbf84648"></p><p align = "center"><i>
