@@ -12,6 +12,7 @@ icon = PhotoImage(file="media/enigma.png")
 root.title("Enigma Simulator")
 root.iconphoto(False, icon)
 root.geometry("1000x800")
+
 root.configure(bg='black')
 canvas_width = 1000
 canvas_height = 800
@@ -215,7 +216,6 @@ def configure_enigma():
             return
         
         for pair in plugboard_settings:
-            print(pair)
             if len(pair) != 2 or not pair.isalpha() or pair[0] == pair[1]:
                 messagebox.showerror("Error", f"Invalid plugboard pair: {pair}.")
                 return
@@ -251,6 +251,7 @@ def configure_enigma():
 
     config_window = Toplevel(root)
     config_window.title("Configure Enigma Machine")
+    config_window.iconphoto(False,icon)
     config_window.geometry("400x400")
 
     rotor_label = Label(config_window, text="Select Rotors:", font=('Helvetica', 12))
