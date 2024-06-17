@@ -1,7 +1,7 @@
 # enigma-simulator
 # Background
 Having just recently re-watched The Imitation Game during my summer break, I set about trying to simulate Enigma using my insane "button mashing and praying to God it works" skills. The movie aside, I have been a 
-**world history** enthusiast for a long time (and by world, I mean just Europe and by history, I just mean WW2). The machine itself was a fantastic bit of engineering and it had the smartest mathematicians in the world scratching their heads trying to crack it.
+**world history** enthusiast for a long time (and by world, I mean Europe and by history, I mean WW2). The machine itself was a fantastic bit of engineering and it had the smartest mathematicians in the world scratching their heads trying to crack it.
 This project itself, is dedicated to the Polish cryptologists, **Marian Rejewski, Henryk Zygalski** and **Jerzy Rozycki** (who cracked Enigma first and worked with Bletchley Park during the war), and the great **Alan Turing** himself. For more information on its history, click [here](https://en.wikipedia.org/wiki/Enigma_machine#History).
 <br>
 <p align = "center"><img src = "https://github.com/rghanty/enigma-simulator/assets/99227180/89d4e9f5-3aa4-4af8-938b-dc892c8f0570"></p>
