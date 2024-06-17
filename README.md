@@ -44,16 +44,16 @@ When you apply your selected configuration to the machine, you will be taken bac
 <br><br>
 
 # Historical Rotor Wirings
-| Rotor/Reflector # | Wiring |
-|-------------------|--------|
-| I                 | EKMFLGDQVZNTOWYHXUSPAIBRCJ       |
-| II                | AJDKSIRUXBLHWTMCQGZNPYFVOE       |
-| III               | BDFHJLCPRTXVZNYEIWGAKMUSQO       |
-| IV                | ESOVPZJAYQUIRHXLNFTGKDCMWB       |
-| V                 | VZBRGITYUPSDNHLXAWMJQOFECK       |
-| Reflector A       | EJMZALYXVBWFCRQUONTSPIKHGD       |
-| Reflector B       | YRUHQSLDPXNGOKMIEBFZCWVJAT       |
-| Reflector C       | FVPJIAOYEDRZXWGCTKUQSBNMHL       |
+| Rotor/Reflector # | Wiring | Turnover Notch
+|-------------------|----------------------------------|---------------|
+| I                 | EKMFLGDQVZNTOWYHXUSPAIBRCJ       |Q              |
+| II                | AJDKSIRUXBLHWTMCQGZNPYFVOE       |E              |
+| III               | BDFHJLCPRTXVZNYEIWGAKMUSQO       |V              |
+| IV                | ESOVPZJAYQUIRHXLNFTGKDCMWB       |J              |
+| V                 | VZBRGITYUPSDNHLXAWMJQOFECK       |Z              |
+| Reflector A       | EJMZALYXVBWFCRQUONTSPIKHGD       |N/A            |
+| Reflector B       | YRUHQSLDPXNGOKMIEBFZCWVJAT       |N/A            |
+| Reflector C       | FVPJIAOYEDRZXWGCTKUQSBNMHL       |N/A            |
 
 Source: https://en.wikipedia.org/wiki/Enigma_rotor_details
 
